@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\bin\Debug\net6.0\GlassLewis.Core.deps.json
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\bin\Debug\net6.0\GlassLewis.Core.dll
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\bin\Debug\net6.0\GlassLewis.Core.pdb
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\obj\Debug\net6.0\GlassLewis.Core.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\obj\Debug\net6.0\GlassLewis.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\obj\Debug\net6.0\GlassLewis.Core.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\obj\Debug\net6.0\GlassLewis.Core.AssemblyInfo.cs
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\obj\Debug\net6.0\GlassLewis.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\obj\Debug\net6.0\GlassLewis.Core.dll
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\obj\Debug\net6.0\refint\GlassLewis.Core.dll
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\obj\Debug\net6.0\GlassLewis.Core.pdb
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\obj\Debug\net6.0\ref\GlassLewis.Core.dll

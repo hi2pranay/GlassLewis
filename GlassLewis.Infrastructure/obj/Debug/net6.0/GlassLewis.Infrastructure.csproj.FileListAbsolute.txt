@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\obj\Debug\net6.0\GlassLewis.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\obj\Debug\net6.0\GlassLewis.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\obj\Debug\net6.0\GlassLewis.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\obj\Debug\net6.0\GlassLewis.Infrastructure.AssemblyInfo.cs
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\obj\Debug\net6.0\GlassLewis.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\bin\Debug\net6.0\GlassLewis.Infrastructure.deps.json
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\bin\Debug\net6.0\GlassLewis.Infrastructure.runtimeconfig.json
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\bin\Debug\net6.0\GlassLewis.Infrastructure.dll
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\bin\Debug\net6.0\GlassLewis.Infrastructure.pdb
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\bin\Debug\net6.0\GlassLewis.Core.dll
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\bin\Debug\net6.0\GlassLewis.Core.pdb
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\obj\Debug\net6.0\GlassLewis.Infrastructure.csproj.CopyComplete
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\obj\Debug\net6.0\GlassLewis.Infrastructure.dll
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\obj\Debug\net6.0\refint\GlassLewis.Infrastructure.dll
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\obj\Debug\net6.0\GlassLewis.Infrastructure.pdb
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\obj\Debug\net6.0\GlassLewis.Infrastructure.genruntimeconfig.cache
+C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\obj\Debug\net6.0\ref\GlassLewis.Infrastructure.dll

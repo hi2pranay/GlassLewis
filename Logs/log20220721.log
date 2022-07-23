@@ -1,0 +1,205 @@
+[15:15:45 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[15:16:37 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[15:16:40 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("45"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[15:16:40 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("35"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[15:16:40 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[15:16:40 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[15:16:40 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[15:16:40 Microsoft.EntityFrameworkCore.Migrations [Information] Applying migration '"20220721141545_v1"'.
+[15:32:14 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[15:33:03 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[15:33:21 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[15:33:24 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("43"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[15:33:24 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("37"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[15:33:24 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[15:33:25 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("18"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);"
+[15:33:25 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("12"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[15:33:25 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[15:33:25 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("10"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[15:33:25 Microsoft.EntityFrameworkCore.Migrations [Information] Applying migration '"20220721143303_InitialCreate"'.
+[15:33:25 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("10"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE SEQUENCE [dbo].[Order_seq] AS int START WITH 0 INCREMENT BY 1 NO MINVALUE NO MAXVALUE NO CYCLE;"
+[15:33:25 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("10"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Company] (
+    [Id] int NOT NULL DEFAULT (NEXT VALUE FOR dbo.Order_seq),
+    [Name] nvarchar(max) NOT NULL,
+    [Exchange] nvarchar(max) NOT NULL,
+    [Ticker] nvarchar(max) NOT NULL,
+    [ISIN] nvarchar(max) NOT NULL,
+    [Website] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Company] PRIMARY KEY ([Id])
+);"
+[15:33:25 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("79"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Exchange', N'ISIN', N'Name', N'Ticker', N'Website') AND [object_id] = OBJECT_ID(N'[Company]'))
+    SET IDENTITY_INSERT [Company] ON;
+INSERT INTO [Company] ([Id], [Exchange], [ISIN], [Name], [Ticker], [Website])
+VALUES (1, N'NASDAQ', N'US0378331005', N'Apple Inc.', N'AAPL', N'http://www.apple.com'),
+(2, N'Pink Sheets', N'US1104193065', N'British Airways Plc.', N'BAIRY', N''),
+(3, N'Euronext Amsterdam', N'NL0000009165', N'Heineken NV', N'HEIA', N''),
+(4, N'Tokyo Stock Exchange', N'JP3866800000', N'Panasonic Corp', N'6752', N'http://www.panasonic.co.jp'),
+(5, N'Deutsche Börse', N'DE000PAH0038', N'Porsche Automobil', N'PAH3', N'https://www.porsche.com/');
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Exchange', N'ISIN', N'Name', N'Ticker', N'Website') AND [object_id] = OBJECT_ID(N'[Company]'))
+    SET IDENTITY_INSERT [Company] OFF;"
+[15:33:25 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20220721143303_InitialCreate', N'6.0.7');"
+[20:41:31 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[20:41:52 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[20:43:37 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[20:43:39 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("906"ms) [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""CREATE DATABASE [GlassLewisDB];"
+[20:43:40 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("434"ms) [Parameters=[""], CommandType='Text', CommandTimeout='60']"
+""IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [GlassLewisDB] SET READ_COMMITTED_SNAPSHOT ON;
+END;"
+[20:43:40 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("18"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[20:43:40 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("35"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);"
+[20:43:40 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[20:43:40 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("40"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[20:43:40 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("8"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[20:43:40 Microsoft.EntityFrameworkCore.Migrations [Information] Applying migration '"20220721194131_InitialCreate"'.
+[20:43:40 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("4"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE SEQUENCE [dbo].[Order_seq] AS int START WITH 0 INCREMENT BY 1 NO MINVALUE NO MAXVALUE NO CYCLE;"
+[20:43:40 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("7"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Company] (
+    [Id] int NOT NULL DEFAULT (NEXT VALUE FOR dbo.Order_seq),
+    [Name] nvarchar(max) NOT NULL,
+    [Exchange] nvarchar(max) NOT NULL,
+    [Ticker] nvarchar(max) NOT NULL,
+    [ISIN] nvarchar(max) NOT NULL,
+    [Website] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Company] PRIMARY KEY ([Id])
+);"
+[20:43:40 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("98"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Exchange', N'ISIN', N'Name', N'Ticker', N'Website') AND [object_id] = OBJECT_ID(N'[Company]'))
+    SET IDENTITY_INSERT [Company] ON;
+INSERT INTO [Company] ([Id], [Exchange], [ISIN], [Name], [Ticker], [Website])
+VALUES (1, N'NASDAQ', N'US0378331005', N'Apple Inc.', N'AAPL', N'http://www.apple.com'),
+(2, N'Pink Sheets', N'US1104193065', N'British Airways Plc.', N'BAIRY', N''),
+(3, N'Euronext Amsterdam', N'NL0000009165', N'Heineken NV', N'HEIA', N''),
+(4, N'Tokyo Stock Exchange', N'JP3866800000', N'Panasonic Corp', N'6752', N'http://www.panasonic.co.jp'),
+(5, N'Deutsche Börse', N'DE000PAH0038', N'Porsche Automobil', N'PAH3', N'https://www.porsche.com/');
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Exchange', N'ISIN', N'Name', N'Ticker', N'Website') AND [object_id] = OBJECT_ID(N'[Company]'))
+    SET IDENTITY_INSERT [Company] OFF;"
+[20:43:40 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20220721194131_InitialCreate', N'6.0.7');"
+[23:12:43 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[23:13:01 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[23:13:02 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("46"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[23:13:02 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("35"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[23:13:02 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[23:13:02 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("55"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);"
+[23:13:02 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1"
+[23:13:02 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');"
+[23:13:02 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("13"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];"
+[23:13:03 Microsoft.EntityFrameworkCore.Migrations [Information] Applying migration '"20220721221244_InitialCreate"'.
+[23:13:03 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("14"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE SEQUENCE [Id] AS int START WITH 1 INCREMENT BY 1 NO MINVALUE NO MAXVALUE NO CYCLE;"
+[23:13:03 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("16"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [Company] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NOT NULL,
+    [Exchange] nvarchar(max) NOT NULL,
+    [Ticker] nvarchar(max) NOT NULL,
+    [ISIN] nvarchar(max) NOT NULL,
+    [Website] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Company] PRIMARY KEY ([Id])
+);"
+[23:13:03 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("32"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Exchange', N'ISIN', N'Name', N'Ticker', N'Website') AND [object_id] = OBJECT_ID(N'[Company]'))
+    SET IDENTITY_INSERT [Company] ON;
+INSERT INTO [Company] ([Id], [Exchange], [ISIN], [Name], [Ticker], [Website])
+VALUES (1, N'NASDAQ', N'US0378331005', N'Apple Inc.', N'AAPL', N'http://www.apple.com'),
+(2, N'Pink Sheets', N'US1104193065', N'British Airways Plc.', N'BAIRY', N''),
+(3, N'Euronext Amsterdam', N'NL0000009165', N'Heineken NV', N'HEIA', N''),
+(4, N'Tokyo Stock Exchange', N'JP3866800000', N'Panasonic Corp', N'6752', N'http://www.panasonic.co.jp'),
+(5, N'Deutsche Börse', N'DE000PAH0038', N'Porsche Automobil', N'PAH3', N'https://www.porsche.com/');
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Exchange', N'ISIN', N'Name', N'Ticker', N'Website') AND [object_id] = OBJECT_ID(N'[Company]'))
+    SET IDENTITY_INSERT [Company] OFF;"
+[23:13:03 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("9"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20220721221244_InitialCreate', N'6.0.7');"
+[23:54:03 Microsoft.Hosting.Lifetime [Information] Now listening on: "https://localhost:7008"
+[23:54:03 Microsoft.Hosting.Lifetime [Information] Now listening on: "http://localhost:5008"
+[23:54:04 Microsoft.Hosting.Lifetime [Information] Application started. Press Ctrl+C to shut down.
+[23:54:04 Microsoft.Hosting.Lifetime [Information] Hosting environment: "Development"
+[23:54:04 Microsoft.Hosting.Lifetime [Information] Content root path: "C:\Users\user\source\repos\GlassLewis\GlassLewis.API\"
+[23:54:06 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/swagger - -
+[23:54:07 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/swagger - - - 301 0 - 783.2844ms
+[23:54:07 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/swagger/index.html - -
+[23:54:08 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/swagger/swagger-ui.css - -
+[23:54:08 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/swagger/swagger-ui-bundle.js - -
+[23:54:08 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/swagger/swagger-ui-standalone-preset.js - -
+[23:54:08 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/swagger/index.html - - - 200 - text/html;charset=utf-8 1603.7253ms
+[23:54:08 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/_framework/aspnetcore-browser-refresh.js - -
+[23:54:08 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/_vs/browserLink - -
+[23:54:08 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/_framework/aspnetcore-browser-refresh.js - - - 200 11998 application/javascript;+charset=utf-8 19.5484ms
+[23:54:08 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware [Information] Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"'
+[23:54:08 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware [Information] Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+[23:54:08 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/swagger/swagger-ui.css - - - 200 143632 text/css 267.2071ms
+[23:54:08 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 247.5557ms
+[23:54:09 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware [Information] Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+[23:54:09 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 356.3743ms
+[23:54:09 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 388.9994ms
+[23:54:09 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/swagger/v1/swagger.json - -
+[23:54:09 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/swagger/favicon-32x32.png - -
+[23:54:09 Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware [Information] Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"'
+[23:54:09 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/swagger/favicon-32x32.png - - - 200 628 image/png 0.7825ms
+[23:54:10 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 558.4153ms
+[23:54:17 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[23:54:17 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[23:54:17 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[23:54:29 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[23:54:34 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("148"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[23:54:34 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[23:54:34 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 16817.6385ms
+[23:54:34 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[23:54:34 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 17036.5137ms

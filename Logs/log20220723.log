@@ -1,0 +1,1190 @@
+[00:01:06 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:01:06 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:01:06 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:01:06 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:01:06 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 89.4249ms
+[00:01:06 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:01:06 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:01:06 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:01:06 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:01:06 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 1.2457ms
+[00:01:28 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:01:28 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:01:28 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:01:28 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:01:28 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 1.3093ms
+[00:04:47 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:04:47 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:04:47 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 2.9924ms
+[00:04:47 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:04:47 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:04:47 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 36.3683ms
+[00:04:47 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:04:47 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:04:47 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:04:47 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:04:47 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 2.2388ms
+[00:04:47 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:04:47 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:04:47 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:04:47 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:04:47 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 1.0630ms
+[00:05:07 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:05:07 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:05:07 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.4987ms
+[00:05:07 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:05:07 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:05:07 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:05:07 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:05:07 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 0.6956ms
+[00:05:08 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:05:08 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:05:08 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:05:08 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:05:08 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 1.0433ms
+[00:05:36 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:05:36 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:05:36 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 3.5888ms
+[00:05:36 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:05:36 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:05:36 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:05:36 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:05:36 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 41.9287ms
+[00:06:19 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:06:19 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:06:19 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.8893ms
+[00:06:19 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:06:19 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:06:19 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:06:19 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:06:19 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 0.7806ms
+[00:07:43 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:07:43 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:07:43 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 3.1555ms
+[00:07:43 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:07:43 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:07:43 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:07:43 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:07:43 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 0.7365ms
+[00:07:46 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:07:46 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:07:46 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:07:46 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:07:46 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 1.0294ms
+[00:08:17 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:08:17 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:08:17 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 11.4409ms
+[00:08:17 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:08:17 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:08:17 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[00:08:17 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[00:08:17 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[00:08:17 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("10"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[00:08:17 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[00:08:17 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 122.6121ms
+[00:08:17 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[00:08:17 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 409.8576ms
+[00:08:38 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:08:38 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:08:38 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 1.9070ms
+[00:08:38 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:08:38 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:08:38 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[00:08:38 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[00:08:38 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[00:08:38 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[00:08:38 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[00:08:38 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 5.9703ms
+[00:08:38 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[00:08:38 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 7.2689ms
+[00:09:11 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:09:11 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:09:11 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.5073ms
+[00:09:11 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:09:11 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:09:11 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[00:09:11 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[00:09:11 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[00:09:11 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[00:09:11 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[00:09:11 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 9.6207ms
+[00:09:11 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[00:09:11 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 10.8791ms
+[00:09:18 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:09:18 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:09:18 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.5993ms
+[00:09:18 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:09:18 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:09:18 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[00:09:18 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[00:09:18 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[00:09:18 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[00:09:18 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[00:09:18 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 4.4983ms
+[00:09:18 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[00:09:18 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 7.6865ms
+[00:11:05 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:11:05 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:11:05 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.9888ms
+[00:11:05 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:11:05 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:11:05 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[00:11:05 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[00:11:05 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:11:05 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:11:05 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 56.5064ms
+[00:11:07 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:11:07 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:11:07 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[00:11:07 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[00:11:07 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:11:07 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:11:07 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 1.8750ms
+[00:11:40 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:11:40 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:11:40 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.9582ms
+[00:11:40 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:11:40 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:11:40 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[00:11:40 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[00:11:40 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:11:40 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:11:40 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 3.7347ms
+[00:11:42 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:11:42 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:11:42 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[00:11:42 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[00:11:42 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:11:42 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:11:42 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 1.3874ms
+[00:12:09 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:12:09 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:12:09 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 2.5799ms
+[00:12:09 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:12:09 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:12:09 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[00:12:09 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[00:12:09 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:12:09 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:12:09 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 3.5319ms
+[00:12:19 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:12:19 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:12:19 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.9207ms
+[00:12:19 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:12:19 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:12:19 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[00:12:19 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[00:12:19 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:12:19 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:12:19 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 14.3201ms
+[00:12:30 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:12:30 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:12:30 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 7.2936ms
+[00:12:30 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:12:30 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:12:30 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[00:12:30 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[00:12:30 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:12:30 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:12:30 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 2.0788ms
+[00:12:46 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:12:46 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:12:46 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 1.0225ms
+[00:12:46 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:12:46 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:12:46 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[00:12:46 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[00:12:46 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:12:46 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:12:46 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 2.6778ms
+[00:14:24 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:14:24 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:14:24 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.4135ms
+[00:14:24 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:14:24 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:14:24 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[00:14:24 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[00:14:24 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:14:24 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:14:24 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 9.5479ms
+[00:14:44 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:14:44 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:14:44 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 5.8117ms
+[00:14:44 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:14:44 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:14:44 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[00:14:44 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[00:14:44 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:14:44 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:14:44 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 1.5947ms
+[00:16:37 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:16:37 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:16:37 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 1.0308ms
+[00:16:37 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:16:37 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:16:37 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[00:16:37 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[00:16:37 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:16:37 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:16:37 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 1.4611ms
+[00:16:45 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:16:45 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:16:45 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.4145ms
+[00:16:45 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:16:45 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:16:45 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[00:16:45 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[00:16:45 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:16:45 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:16:45 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 1.5798ms
+[00:16:48 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:16:48 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:16:48 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[00:16:48 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[00:16:48 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[00:16:48 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[00:16:48 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 2.8925ms
+[00:16:58 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/token - -
+[00:16:58 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:16:58 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/token - - - 204 - - 1.2189ms
+[00:16:58 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 POST https://localhost:7008/api/token application/json 45
+[00:16:58 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:16:58 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.TokenController.Post (GlassLewis.API)"'
+[00:16:58 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"Post\", controller = \"Token\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(GlassLewis.Core.GlassLewis.Models.UserInfo)" on controller "GlassLewis.API.Controllers.TokenController" ("GlassLewis.API").
+[00:16:58 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[00:16:58 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("5"ms) [Parameters=["@___userData_Email_0='?' (Size = 4000), @___userData_Password_1='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [u].[UserId], [u].[Email], [u].[Password]
+FROM [UserInfo] AS [u]
+WHERE ([u].[Email] = @___userData_Email_0) AND ([u].[Password] = @___userData_Password_1)"
+[00:16:58 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.String"'.
+[00:16:58 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.TokenController.Post (GlassLewis.API)" in 14.5071ms
+[00:16:58 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.TokenController.Post (GlassLewis.API)"'
+[00:16:58 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 POST https://localhost:7008/api/token application/json 45 - 200 - text/plain;+charset=utf-8 15.6989ms
+[00:17:03 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:17:03 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:17:03 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 12.0842ms
+[00:17:03 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:17:03 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:17:03 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[00:17:03 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[00:17:06 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[00:17:06 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[00:17:06 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[00:17:06 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 2849.2087ms
+[00:17:06 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[00:17:06 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 2850.4077ms
+[00:17:11 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:17:11 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:17:11 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.4714ms
+[00:17:11 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[00:17:11 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[00:17:11 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[00:17:11 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[10:17:31 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:17:31 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:17:31 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[10:17:31 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("7"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[10:17:31 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[10:17:31 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 36023995.5043ms
+[10:17:31 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 81.7015ms
+[10:17:31 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[10:17:31 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 36023997.5034ms
+[10:17:31 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:17:31 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:17:31 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.3517ms
+[10:20:16 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:20:16 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:20:16 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.7660ms
+[10:20:16 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:20:16 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:20:16 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[10:20:16 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[10:20:16 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[10:20:16 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[10:20:16 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 14.9222ms
+[10:32:00 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:32:00 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:32:00 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:32:00 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 4.2665ms
+[10:32:00 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:32:00 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.4716ms
+[10:32:00 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:32:00 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:32:00 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[10:32:00 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[10:32:00 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[10:32:00 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[10:32:00 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 8.6986ms
+[10:32:00 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:32:00 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:32:00 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[10:32:00 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[10:32:00 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[10:32:00 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[10:32:00 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 1.7179ms
+[10:39:59 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:39:59 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:39:59 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 6.1057ms
+[10:39:59 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:39:59 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:39:59 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[10:39:59 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[10:39:59 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[10:39:59 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[10:39:59 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 1.8244ms
+[10:40:14 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:40:14 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:40:14 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:40:14 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:40:14 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.5495ms
+[10:40:14 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 4.9451ms
+[10:40:14 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:40:14 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:40:14 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[10:40:14 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[10:40:14 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[10:40:14 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[10:40:14 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 6.4638ms
+[10:40:14 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:40:14 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:40:14 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[10:40:14 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[10:40:14 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[10:40:14 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[10:40:14 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 25.2400ms
+[10:45:52 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:45:52 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:45:52 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 5.4790ms
+[10:45:52 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:45:52 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:45:52 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[10:45:52 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[10:45:52 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[10:45:52 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[10:45:52 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 1.4888ms
+[10:45:57 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:45:57 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:45:57 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.6735ms
+[10:45:57 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:45:57 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:45:57 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[10:45:57 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[10:45:57 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[10:45:57 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[10:45:57 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 2.3720ms
+[10:50:14 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:50:14 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:50:14 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 7.9274ms
+[10:50:14 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:50:14 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:50:14 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 1.5183ms
+[10:50:14 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:50:14 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:50:14 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[10:50:14 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[10:50:14 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[10:50:14 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[10:50:14 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 2.5076ms
+[10:50:14 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:50:14 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:50:14 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[10:50:14 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[10:50:14 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[10:50:14 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[10:50:14 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 401 0 - 1.3089ms
+[10:53:21 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/token - -
+[10:53:21 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:53:21 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/token - - - 204 - - 6.8979ms
+[10:53:21 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 POST https://localhost:7008/api/token application/json 45
+[10:53:21 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:53:21 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.TokenController.Post (GlassLewis.API)"'
+[10:53:21 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"Post\", controller = \"Token\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(GlassLewis.Core.GlassLewis.Models.UserInfo)" on controller "GlassLewis.API.Controllers.TokenController" ("GlassLewis.API").
+[10:53:21 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[10:53:21 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("8"ms) [Parameters=["@___userData_Email_0='?' (Size = 4000), @___userData_Password_1='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [u].[UserId], [u].[Email], [u].[Password]
+FROM [UserInfo] AS [u]
+WHERE ([u].[Email] = @___userData_Email_0) AND ([u].[Password] = @___userData_Password_1)"
+[10:53:21 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.String"'.
+[10:53:21 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.TokenController.Post (GlassLewis.API)" in 94.3122ms
+[10:53:21 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.TokenController.Post (GlassLewis.API)"'
+[10:53:21 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 POST https://localhost:7008/api/token application/json 45 - 200 - text/plain;+charset=utf-8 106.9528ms
+[10:53:22 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:53:22 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:53:22 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.9847ms
+[10:53:22 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:53:22 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:53:22 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[10:53:22 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[10:53:22 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[10:53:22 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[10:53:22 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[10:53:22 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 13.0419ms
+[10:53:22 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[10:53:22 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 20.7857ms
+[10:53:22 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:53:22 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:53:22 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[10:53:22 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[10:53:22 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[10:53:22 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[10:53:22 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[10:53:22 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 4.8449ms
+[10:53:22 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[10:53:22 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 7.0523ms
+[10:54:11 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/ - -
+[10:54:11 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:54:11 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/ - - - 204 - - 91.2552ms
+[10:54:11 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 POST https://localhost:7008/ application/json 113
+[10:54:11 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:54:11 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 POST https://localhost:7008/ application/json 113 - 404 0 - 5.3429ms
+[10:54:11 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:54:11 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:54:11 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.6490ms
+[10:54:11 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:54:11 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:54:11 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[10:54:11 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[10:54:11 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[10:54:11 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[10:54:11 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[10:54:11 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 3.3195ms
+[10:54:11 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[10:54:11 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 4.6880ms
+[10:54:42 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/ - -
+[10:54:42 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:54:42 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/ - - - 204 - - 0.6849ms
+[10:54:42 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 POST https://localhost:7008/ application/json 113
+[10:54:42 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:54:42 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 POST https://localhost:7008/ application/json 113 - 404 0 - 3.1170ms
+[10:56:26 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/1.1 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 167
+[10:56:26 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[10:56:26 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[10:56:26 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[10:56:26 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[10:56:26 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/1.1 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 167 - 401 0 - 19.3604ms
+[10:56:32 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/1.1 POST https://localhost:7008/api/token application/json 59
+[10:56:32 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.TokenController.Post (GlassLewis.API)"'
+[10:56:32 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"Post\", controller = \"Token\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(GlassLewis.Core.GlassLewis.Models.UserInfo)" on controller "GlassLewis.API.Controllers.TokenController" ("GlassLewis.API").
+[10:56:32 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[10:56:32 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("2"ms) [Parameters=["@___userData_Email_0='?' (Size = 4000), @___userData_Password_1='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [u].[UserId], [u].[Email], [u].[Password]
+FROM [UserInfo] AS [u]
+WHERE ([u].[Email] = @___userData_Email_0) AND ([u].[Password] = @___userData_Password_1)"
+[10:56:32 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.String"'.
+[10:56:32 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.TokenController.Post (GlassLewis.API)" in 24.5582ms
+[10:56:32 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.TokenController.Post (GlassLewis.API)"'
+[10:56:32 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/1.1 POST https://localhost:7008/api/token application/json 59 - 200 - text/plain;+charset=utf-8 25.8155ms
+[10:56:44 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/1.1 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 167
+[10:56:44 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[10:56:44 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"Post\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(GlassLewis.Core.GlassLewis.Models.Company)" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[10:56:44 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[10:56:44 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("53"ms) [Parameters=["@__company_ISIN_0='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]
+WHERE [c].[ISIN] = @__company_ISIN_0"
+[10:56:44 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("87"ms) [Parameters=["@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Company] ([Exchange], [ISIN], [Name], [Ticker], [Website])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Company]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();"
+[10:56:45 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Boolean"'.
+[10:56:45 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)" in 875.0023ms
+[10:56:45 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[10:56:45 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/1.1 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 167 - 200 - application/json;+charset=utf-8 900.3414ms
+[10:57:51 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:57:51 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:57:51 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.6255ms
+[10:57:51 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:57:51 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:57:51 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[10:57:51 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[10:57:51 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[10:57:51 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[10:57:51 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[10:57:51 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 5.1666ms
+[10:57:51 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[10:57:51 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 10.2281ms
+[10:59:31 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:59:31 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:59:31 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.5731ms
+[10:59:31 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:59:31 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:59:31 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[10:59:31 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[10:59:31 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[10:59:31 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[10:59:31 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[10:59:31 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 3.9368ms
+[10:59:31 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[10:59:31 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 5.0804ms
+[10:59:34 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[10:59:34 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[10:59:34 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[10:59:34 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[10:59:34 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[10:59:34 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("5"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[10:59:34 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[10:59:34 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 15.5408ms
+[10:59:34 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[10:59:34 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 17.7255ms
+[11:00:34 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/CreateCompany - -
+[11:00:34 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:00:34 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/CreateCompany - - - 204 - - 1.2011ms
+[11:00:34 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 121
+[11:00:34 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:00:34 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:00:34 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"Post\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(GlassLewis.Core.GlassLewis.Models.Company)" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:00:34 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:00:34 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("4"ms) [Parameters=["@__company_ISIN_0='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]
+WHERE [c].[ISIN] = @__company_ISIN_0"
+[11:00:34 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("6"ms) [Parameters=["@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Company] ([Exchange], [ISIN], [Name], [Ticker], [Website])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Company]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();"
+[11:00:34 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Boolean"'.
+[11:00:34 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)" in 25.5857ms
+[11:00:34 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:00:34 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 121 - 200 - application/json;+charset=utf-8 27.1469ms
+[11:00:39 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[11:00:39 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:00:39 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.5530ms
+[11:00:39 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[11:00:39 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:00:39 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:00:39 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:00:39 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:00:39 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("10"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[11:00:39 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[11:00:39 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 16.5613ms
+[11:00:39 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:00:39 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 17.8183ms
+[11:02:41 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[11:02:41 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[11:02:41 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:02:41 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:02:41 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 2.4468ms
+[11:02:41 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.4826ms
+[11:02:41 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[11:02:41 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:02:41 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:02:41 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:02:41 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:02:41 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[11:02:41 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[11:02:41 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 4.3788ms
+[11:02:41 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:02:41 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 5.4363ms
+[11:02:41 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[11:02:41 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:02:41 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:02:41 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:02:41 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:02:41 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[11:02:41 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[11:02:41 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 2.4638ms
+[11:02:41 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:02:41 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 5.3592ms
+[11:03:38 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[11:03:38 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:03:38 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 7.6053ms
+[11:03:38 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[11:03:38 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:03:38 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:03:38 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:03:38 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:03:38 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[11:03:38 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[11:03:39 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 4.7449ms
+[11:03:39 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:03:39 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 10.0754ms
+[11:03:42 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[11:03:42 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:03:42 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:03:42 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:03:42 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:03:42 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[11:03:42 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[11:03:42 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 3.7699ms
+[11:03:42 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:03:42 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 5.1207ms
+[11:03:42 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[11:03:42 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:03:42 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:03:42 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:03:42 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:03:42 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[11:03:42 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[11:03:42 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 4.972ms
+[11:03:42 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:03:42 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 7.5845ms
+[11:04:23 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/CreateCompany - -
+[11:04:23 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:04:23 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/CreateCompany - - - 204 - - 0.8517ms
+[11:04:23 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 90
+[11:04:23 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:04:23 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:04:23 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"Post\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(GlassLewis.Core.GlassLewis.Models.Company)" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:04:23 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:04:23 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("1"ms) [Parameters=["@__company_ISIN_0='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]
+WHERE [c].[ISIN] = @__company_ISIN_0"
+[11:04:23 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("5"ms) [Parameters=["@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [Company] ([Exchange], [ISIN], [Name], [Ticker], [Website])
+VALUES (@p0, @p1, @p2, @p3, @p4);
+SELECT [Id]
+FROM [Company]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();"
+[11:04:23 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Boolean"'.
+[11:04:23 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)" in 11.6409ms
+[11:04:23 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:04:23 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 90 - 200 - application/json;+charset=utf-8 13.2879ms
+[11:04:32 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[11:04:32 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:04:32 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.7223ms
+[11:04:32 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[11:04:32 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:04:32 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:04:32 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:04:32 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:04:32 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("17"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[11:04:32 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[11:04:32 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 20.1259ms
+[11:04:32 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:04:32 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 21.4731ms
+[11:04:42 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/CreateCompany - -
+[11:04:42 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:04:42 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/CreateCompany - - - 204 - - 0.5666ms
+[11:04:42 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 90
+[11:04:42 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:04:42 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:04:42 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"Post\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(GlassLewis.Core.GlassLewis.Models.Company)" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:04:42 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:04:42 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("2"ms) [Parameters=["@__company_ISIN_0='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]
+WHERE [c].[ISIN] = @__company_ISIN_0"
+[11:04:42 GlassLewis.API.ExceptionFilter [Error] An unhandled error occurred.
+System.Exception: Companies with the same Isin already exists
+   at GlassLewis.Infrastructure.Repositories.CompanyRepository.CreateCompany(Company company) in C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\Repositories\CompanyRepository.cs:line 32
+   at GlassLewis.Core.GlassLewis.Features.Company.Commands.CreateCompanyHandler.Handle(CreateCompany request, CancellationToken cancellationToken) in C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\GlassLewis\Features\Company\Commands\CreateCompany.cs:line 41
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at GlassLewis.API.Controllers.CompanyController.Post(Company company) in C:\Users\user\source\repos\GlassLewis\GlassLewis.API\Controllers\CompanyController.cs:line 56
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+[11:04:42 Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor [Information] Executing JsonResult, writing value of type '"System.String"'.
+[11:04:42 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)" in 471.1823ms
+[11:04:42 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:04:42 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 90 - 200 - application/json;+charset=utf-8 473.2214ms
+[11:04:45 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[11:04:45 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:04:45 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 1.0991ms
+[11:04:45 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[11:04:45 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:04:45 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:04:45 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:04:45 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:04:45 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[11:04:45 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[11:04:45 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 4.9578ms
+[11:04:45 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:04:45 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 7.3961ms
+[11:05:04 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/CreateCompany - -
+[11:05:04 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:05:04 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/CreateCompany - - - 204 - - 1.2522ms
+[11:05:04 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 90
+[11:05:04 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:05:04 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:05:04 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"Post\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(GlassLewis.Core.GlassLewis.Models.Company)" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:05:04 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:05:04 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("1"ms) [Parameters=["@__company_ISIN_0='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]
+WHERE [c].[ISIN] = @__company_ISIN_0"
+[11:05:04 GlassLewis.API.ExceptionFilter [Error] An unhandled error occurred.
+System.Exception: Companies with the same Isin already exists
+   at GlassLewis.Infrastructure.Repositories.CompanyRepository.CreateCompany(Company company) in C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\Repositories\CompanyRepository.cs:line 32
+   at GlassLewis.Core.GlassLewis.Features.Company.Commands.CreateCompanyHandler.Handle(CreateCompany request, CancellationToken cancellationToken) in C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\GlassLewis\Features\Company\Commands\CreateCompany.cs:line 41
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at GlassLewis.API.Controllers.CompanyController.Post(Company company) in C:\Users\user\source\repos\GlassLewis\GlassLewis.API\Controllers\CompanyController.cs:line 56
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+[11:05:04 Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor [Information] Executing JsonResult, writing value of type '"System.String"'.
+[11:05:04 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)" in 304.1134ms
+[11:05:04 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:05:04 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 90 - 200 - application/json;+charset=utf-8 305.3094ms
+[11:05:10 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[11:05:10 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:05:10 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 OPTIONS https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 204 - - 0.9939ms
+[11:05:10 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - -
+[11:05:10 Microsoft.AspNetCore.Cors.Infrastructure.CorsService [Information] CORS policy execution successful.
+[11:05:10 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:05:10 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"GetAllCompanies\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllCompanies()" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:05:10 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:05:10 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]"
+[11:05:10 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[GlassLewis.Core.GlassLewis.Models.Company, GlassLewis.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'.
+[11:05:10 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)" in 5.8039ms
+[11:05:10 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.GetAllCompanies (GlassLewis.API)"'
+[11:05:10 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/api/v1/glasslewis/Company/GetAllCompanies - - - 200 - application/json;+charset=utf-8 9.6121ms
+[11:05:14 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/1.1 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 167
+[11:05:14 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:05:14 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"Post\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(GlassLewis.Core.GlassLewis.Models.Company)" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:05:14 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:05:14 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("0"ms) [Parameters=["@__company_ISIN_0='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]
+WHERE [c].[ISIN] = @__company_ISIN_0"
+[11:05:15 GlassLewis.API.ExceptionFilter [Error] An unhandled error occurred.
+System.Exception: Companies with the same Isin already exists
+   at GlassLewis.Infrastructure.Repositories.CompanyRepository.CreateCompany(Company company) in C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\Repositories\CompanyRepository.cs:line 32
+   at GlassLewis.Core.GlassLewis.Features.Company.Commands.CreateCompanyHandler.Handle(CreateCompany request, CancellationToken cancellationToken) in C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\GlassLewis\Features\Company\Commands\CreateCompany.cs:line 41
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at GlassLewis.API.Controllers.CompanyController.Post(Company company) in C:\Users\user\source\repos\GlassLewis\GlassLewis.API\Controllers\CompanyController.cs:line 56
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+[11:05:15 Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor [Information] Executing JsonResult, writing value of type '"System.String"'.
+[11:05:15 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)" in 356.9653ms
+[11:05:15 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:05:15 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/1.1 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 167 - 200 - application/json;+charset=utf-8 357.9180ms
+[11:06:01 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/1.1 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 167
+[11:06:01 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:06:01 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"Post\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(GlassLewis.Core.GlassLewis.Models.Company)" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:06:04 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:06:05 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("2"ms) [Parameters=["@__company_ISIN_0='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]
+WHERE [c].[ISIN] = @__company_ISIN_0"
+[11:06:15 GlassLewis.API.ExceptionFilter [Error] An unhandled error occurred.
+System.Exception: Companies with the same Isin already exists
+   at GlassLewis.Infrastructure.Repositories.CompanyRepository.CreateCompany(Company company) in C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\Repositories\CompanyRepository.cs:line 32
+   at GlassLewis.Core.GlassLewis.Features.Company.Commands.CreateCompanyHandler.Handle(CreateCompany request, CancellationToken cancellationToken) in C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\GlassLewis\Features\Company\Commands\CreateCompany.cs:line 41
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at GlassLewis.API.Controllers.CompanyController.Post(Company company) in C:\Users\user\source\repos\GlassLewis\GlassLewis.API\Controllers\CompanyController.cs:line 56
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+[11:06:16 Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor [Information] Executing JsonResult, writing value of type '"System.String"'.
+[11:06:16 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)" in 15464.8922ms
+[11:06:16 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:06:16 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/1.1 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 167 - 200 - application/json;+charset=utf-8 15473.7362ms
+[11:06:22 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/1.1 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 167
+[11:06:22 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:06:22 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"Post\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(GlassLewis.Core.GlassLewis.Models.Company)" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:06:25 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:06:25 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("3"ms) [Parameters=["@__company_ISIN_0='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]
+WHERE [c].[ISIN] = @__company_ISIN_0"
+[11:06:42 GlassLewis.API.ExceptionFilter [Error] An unhandled error occurred.
+System.Exception: Companies with the same Isin already exists
+   at GlassLewis.Infrastructure.Repositories.CompanyRepository.CreateCompany(Company company) in C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\Repositories\CompanyRepository.cs:line 32
+   at GlassLewis.Core.GlassLewis.Features.Company.Commands.CreateCompanyHandler.Handle(CreateCompany request, CancellationToken cancellationToken) in C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\GlassLewis\Features\Company\Commands\CreateCompany.cs:line 41
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at GlassLewis.API.Controllers.CompanyController.Post(Company company) in C:\Users\user\source\repos\GlassLewis\GlassLewis.API\Controllers\CompanyController.cs:line 56
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+[11:06:43 Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor [Information] Executing JsonResult, writing value of type '"System.String"'.
+[11:06:43 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)" in 21022.7282ms
+[11:06:43 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:06:43 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/1.1 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 167 - 200 - application/json;+charset=utf-8 21024.1934ms
+[11:06:48 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/1.1 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 167
+[11:06:48 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:06:50 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"Post\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(GlassLewis.Core.GlassLewis.Models.Company)" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:06:57 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:06:58 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("2"ms) [Parameters=["@__company_ISIN_0='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]
+WHERE [c].[ISIN] = @__company_ISIN_0"
+[11:08:01 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager [Information] User profile is available. Using '"C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[11:08:02 Microsoft.Hosting.Lifetime [Information] Now listening on: "https://localhost:7008"
+[11:08:02 Microsoft.Hosting.Lifetime [Information] Now listening on: "http://localhost:5008"
+[11:08:02 Microsoft.Hosting.Lifetime [Information] Application started. Press Ctrl+C to shut down.
+[11:08:02 Microsoft.Hosting.Lifetime [Information] Hosting environment: "Development"
+[11:08:02 Microsoft.Hosting.Lifetime [Information] Content root path: "C:\Users\user\source\repos\GlassLewis\GlassLewis.API\"
+[11:08:03 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/swagger/index.html - -
+[11:08:05 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/_framework/aspnetcore-browser-refresh.js - -
+[11:08:05 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/_vs/browserLink - -
+[11:08:05 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/_framework/aspnetcore-browser-refresh.js - - - 200 11998 application/javascript;+charset=utf-8 15.3665ms
+[11:08:05 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/swagger/index.html - - - 200 - text/html;charset=utf-8 1358.4114ms
+[11:08:05 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 215.9150ms
+[11:08:05 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/swagger/v1/swagger.json - -
+[11:08:05 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 400.2534ms
+[11:08:16 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/1.1 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 167
+[11:08:18 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:08:18 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"Post\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(GlassLewis.Core.GlassLewis.Models.Company)" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:08:27 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:08:30 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("127"ms) [Parameters=["@__company_ISIN_0='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]
+WHERE [c].[ISIN] = @__company_ISIN_0"
+[11:08:44 GlassLewis.API.ExceptionFilter [Error] An unhandled error occurred.
+System.Exception: Companies with the same Isin already exists
+   at GlassLewis.Infrastructure.Repositories.CompanyRepository.CreateCompany(Company company) in C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\Repositories\CompanyRepository.cs:line 41
+   at GlassLewis.Core.GlassLewis.Features.Company.Commands.CreateCompanyHandler.Handle(CreateCompany request, CancellationToken cancellationToken) in C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\GlassLewis\Features\Company\Commands\CreateCompany.cs:line 41
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at GlassLewis.API.Controllers.CompanyController.Post(Company company) in C:\Users\user\source\repos\GlassLewis\GlassLewis.API\Controllers\CompanyController.cs:line 56
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+[11:08:46 Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor [Information] Executing JsonResult, writing value of type '"System.String"'.
+[11:08:46 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)" in 27529.6808ms
+[11:08:46 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:08:46 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/1.1 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 167 - 200 - application/json;+charset=utf-8 29371.9042ms
+[11:39:02 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager [Information] User profile is available. Using '"C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[11:39:03 Microsoft.Hosting.Lifetime [Information] Now listening on: "https://localhost:7008"
+[11:39:03 Microsoft.Hosting.Lifetime [Information] Now listening on: "http://localhost:5008"
+[11:39:03 Microsoft.Hosting.Lifetime [Information] Application started. Press Ctrl+C to shut down.
+[11:39:03 Microsoft.Hosting.Lifetime [Information] Hosting environment: "Development"
+[11:39:03 Microsoft.Hosting.Lifetime [Information] Content root path: "C:\Users\user\source\repos\GlassLewis\GlassLewis.API\"
+[11:39:05 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/swagger/index.html - -
+[11:39:07 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/_framework/aspnetcore-browser-refresh.js - -
+[11:39:07 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/_vs/browserLink - -
+[11:39:07 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/_framework/aspnetcore-browser-refresh.js - - - 200 11998 application/javascript;+charset=utf-8 22.1891ms
+[11:39:07 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/swagger/index.html - - - 200 - text/html;charset=utf-8 1694.2784ms
+[11:39:07 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 322.7456ms
+[11:39:07 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/2 GET https://localhost:7008/swagger/v1/swagger.json - -
+[11:39:08 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/2 GET https://localhost:7008/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 609.6843ms
+[11:39:30 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/1.1 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 167
+[11:39:33 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+[11:39:33 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] "Bearer" was not authenticated. Failure message: "IDX10223: Lifetime validation failed. The token is expired. ValidTo: 'System.DateTime', Current time: 'System.DateTime'."
+[11:39:33 Microsoft.AspNetCore.Authorization.DefaultAuthorizationService [Information] Authorization failed. "These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user."
+[11:39:33 Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler [Information] AuthenticationScheme: "Bearer" was challenged.
+[11:39:33 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/1.1 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 167 - 401 0 - 3610.3249ms
+[11:39:40 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/1.1 POST https://localhost:7008/api/token application/json 59
+[11:39:40 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.TokenController.Post (GlassLewis.API)"'
+[11:39:40 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"Post\", controller = \"Token\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(GlassLewis.Core.GlassLewis.Models.UserInfo)" on controller "GlassLewis.API.Controllers.TokenController" ("GlassLewis.API").
+[11:39:46 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:39:53 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("249"ms) [Parameters=["@___userData_Email_0='?' (Size = 4000), @___userData_Password_1='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [u].[UserId], [u].[Email], [u].[Password]
+FROM [UserInfo] AS [u]
+WHERE ([u].[Email] = @___userData_Email_0) AND ([u].[Password] = @___userData_Password_1)"
+[11:39:54 Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor [Information] Executing "OkObjectResult", writing value of type '"System.String"'.
+[11:39:54 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.TokenController.Post (GlassLewis.API)" in 13644.6079ms
+[11:39:54 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.TokenController.Post (GlassLewis.API)"'
+[11:39:54 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/1.1 POST https://localhost:7008/api/token application/json 59 - 200 - text/plain;+charset=utf-8 13889.3603ms
+[11:40:06 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request starting HTTP/1.1 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 167
+[11:40:06 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executing endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:40:06 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Route matched with "{action = \"Post\", controller = \"Company\"}". Executing controller action with signature "System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Post(GlassLewis.Core.GlassLewis.Models.Company)" on controller "GlassLewis.API.Controllers.CompanyController" ("GlassLewis.API").
+[11:40:28 Microsoft.EntityFrameworkCore.Infrastructure [Information] Entity Framework Core "6.0.7" initialized '"GlassLewisDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer":"6.0.7"' with options: "None"
+[11:40:29 Microsoft.EntityFrameworkCore.Database.Command [Information] Executed DbCommand ("12"ms) [Parameters=["@__company_ISIN_0='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [c].[Id], [c].[Exchange], [c].[ISIN], [c].[Name], [c].[Ticker], [c].[Website]
+FROM [Company] AS [c]
+WHERE [c].[ISIN] = @__company_ISIN_0"
+[11:40:46 GlassLewis.API.ExceptionFilter [Error] An unhandled error occurred.
+System.Exception: Companies with the same Isin already exists
+   at GlassLewis.Infrastructure.Repositories.CompanyRepository.CreateCompany(Company company) in C:\Users\user\source\repos\GlassLewis\GlassLewis.Infrastructure\Repositories\CompanyRepository.cs:line 41
+   at GlassLewis.Core.GlassLewis.Features.Company.Commands.CreateCompanyHandler.Handle(CreateCompany request, CancellationToken cancellationToken) in C:\Users\user\source\repos\GlassLewis\GlassLewis.Core\GlassLewis\Features\Company\Commands\CreateCompany.cs:line 41
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestExceptionActionProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPostProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at MediatR.Pipeline.RequestPreProcessorBehavior`2.Handle(TRequest request, CancellationToken cancellationToken, RequestHandlerDelegate`1 next)
+   at GlassLewis.API.Controllers.CompanyController.Post(Company company) in C:\Users\user\source\repos\GlassLewis\GlassLewis.API\Controllers\CompanyController.cs:line 56
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|26_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+[11:40:46 Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor [Information] Executing JsonResult, writing value of type '"System.String"'.
+[11:40:46 Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker [Information] Executed action "GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)" in 40239.7526ms
+[11:40:46 Microsoft.AspNetCore.Routing.EndpointMiddleware [Information] Executed endpoint '"GlassLewis.API.Controllers.CompanyController.Post (GlassLewis.API)"'
+[11:40:46 Microsoft.AspNetCore.Hosting.Diagnostics [Information] Request finished HTTP/1.1 POST https://localhost:7008/api/v1/glasslewis/Company/CreateCompany application/json 167 - 200 - application/json;+charset=utf-8 40310.2349ms
+[11:48:23 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager [Information] User profile is available. Using '"C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[11:48:24 Microsoft.AspNetCore.Hosting.Diagnostics [Fatal] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'GlassLewis.API.CustomExceptionMiddleware.ExceptionMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.<ConfigureApplication>b__27_0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+[11:50:17 Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager [Information] User profile is available. Using '"C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+[11:50:18 Microsoft.AspNetCore.Hosting.Diagnostics [Fatal] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'GlassLewis.API.CustomExceptionMiddleware.ExceptionMiddleware'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.<ConfigureApplication>b__27_0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
