@@ -1,9 +1,12 @@
 # GlassLewis
 # Database Scripts
 1.	Execute below scripts in Sql server and change the connection string in “appsettings.json”
+
 Connectionstring : Data Source={servername};Initial Catalog=GlassLewisDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False
+
 2.	Create database GlassLewisDB;
 3.	UserInfo script
+
 CREATE TABLE [dbo].[UserInfo] (
     [UserId]   INT            IDENTITY (1, 1) NOT NULL,
     [Email]    NVARCHAR (MAX) NOT NULL,
@@ -14,6 +17,7 @@ Insert into [dbo].[UserInfo](Email,Password) values('User2@abc.com','123456');
 Insert into [dbo].[UserInfo](Email,Password) values('User3@abc.com','123456');
 
 3.  Company Script 
+
  CREATE TABLE [dbo].[Company] (
     [Id]       INT            IDENTITY (1, 1) NOT NULL,
     [Name]     NVARCHAR (MAX) NOT NULL,
@@ -43,7 +47,7 @@ INSERT INTO [dbo].[Company](Name,Exchange,Ticker,ISIN,Website) values('Porsche A
 3. Run the Api project by clicking f5
 
 # UI
-1.	Open GLASSLEWIS-UI folder in Visual studio code
+1.	Open glasslewis-ui folder in Visual studio code
 2.	In terminal type “npm start”
 
 Enter below details
